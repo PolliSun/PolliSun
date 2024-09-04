@@ -14,9 +14,9 @@
 
 ## 🔮 Моя Магия:
 
-- **Языки программирования:**JavaScript, TypeScript, HTML, CSS, SCSS.
+- **Языки программирования:** JavaScript, TypeScript, HTML, CSS, SCSS.
 
-- **Фреймворки и библиотеки:**React, React Router, Redux, Node.js, Jest, Cypress.
+- **Фреймворки и библиотеки:** React, React Router, Redux, Node.js, Jest, Cypress.
 
 - **Инструменты:** Git, Webpack, Vite.
 
