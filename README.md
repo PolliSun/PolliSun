@@ -14,13 +14,13 @@
 
 ## 🔮 Моя Магия:
 
-- **Языки программирования:** JavaScript, TypeScript, HTML, CSS, SCSS.
+- **Языки программирования:** JavaScript, TypeScript, HTML, CSS.
 
-- **Фреймворки и библиотеки:** React, React Router, Redux, Node.js, Jest, Cypress.
+- **Фреймворки и библиотеки:** React, React Router, Redux, Jest, Cypress.
 
-- **Инструменты:** Git, Webpack, Vite.
+- **Инструменты:** Git, Webpack.
 
-А так же работа в Figma, Miro, VS Code, Pixel Perfect, Prettier и не только.
+А так же работа в Figma, Miro, VS Code, Pixel Perfect и не только.
 
 ---
 ## 📫 Как связаться со мной
