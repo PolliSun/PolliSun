@@ -22,6 +22,8 @@
 
 А так же работа в Figma, Miro, VS Code, Pixel Perfect и не только.
 
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=PolliSun&layout=compact&theme=radical)
+
 ---
 ## 📫 Как связаться со мной
 - [Telegram](https://t.me/NikaZero0)
@@ -33,18 +35,6 @@
 
 #### Спасибо, что заглянули в мой профиль! Не забудьте подписаться и поставить звезду ⭐️ моим репозиториям.
 
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=PolliSun&show_icons=true&theme=radical)
 
-<!--
-**PolliSun/PolliSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![График активности](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PolliSun&theme=radical)
